@@ -1,5 +1,5 @@
-# Large Language Models for Finance, Healthcare, and Law
-This is a collection of research papers for Large Language Models in finance, healthcare, and law.
+# LLM+X: A Survey on LLMs for Finance, Healthcare, and Law
+A collection of research papers on Large Language Models for Finance, Healthcare, and Law.
 
 
 ## Finance
