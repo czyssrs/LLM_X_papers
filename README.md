@@ -56,6 +56,24 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 ## Law
 
+### LLMs for Law
+
+- _LEGAL-BERT: The muppets straight out of law school_ [[Paper](https://arxiv.org/pdf/2010.02559)]
+
+- _Lawformer: A pre-trained language model for chinese legal long documents_ [[Paper](https://arxiv.org/pdf/2105.03887)]
+
+- _Juru: Legal Brazilian Large Language Model from Reputable Sources_ [[Paper](https://arxiv.org/pdf/2403.18140)]
+
+- _Sabiá-2: A New Generation of Portuguese Large Language Models_ [[Paper](https://arxiv.org/pdf/2403.09887)]
+
+- _Baichuan 2: Open large-scale language models_ [[Paper](https://arxiv.org/pdf/2309.10305)]
+
+- _LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model_ [[Paper](https://arxiv.org/pdf/2406.04614)]
+
+- _Saullm-7b: A pioneering large language model for law_ [[Paper](https://arxiv.org/pdf/2403.03883)]
+
+- _Chatlaw: Open-source legal large language model with integrated external knowledge bases_ [[Paper](https://arxiv.org/pdf/2306.16092)]
+
 ### Evaluation
 
 - _LawBench: Benchmarking Legal Knowledge of Large Language Models_ [[Paper](https://arxiv.org/pdf/2309.16289)]
