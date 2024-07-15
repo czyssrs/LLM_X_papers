@@ -56,6 +56,14 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 ## Law
 
+### Evaluation
+
+- _LawBench: Benchmarking Legal Knowledge of Large Language Models_ [[Paper](https://arxiv.org/pdf/2309.16289)]
+
+- _LEGALBENCH: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models_ [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/89e44582fd28ddfea1ea4dcb0ebbf4b0-Paper-Datasets_and_Benchmarks.pdf)]
+
+- _LAiW: A Chinese Legal Large Language Models Benchmark_ [[Paper](https://arxiv.org/pdf/2310.05620)]
+
 ## Ethics
 
 ### Ethics in LLM + Finance
