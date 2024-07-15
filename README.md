@@ -16,8 +16,6 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 ## Healthcare
 
-### Tasks and Datasets
-
 ### LLMs for Healthcare
 
 - _BioBERT: a pre-trained biomedical language representation model for biomedical text mining_ [[Paper](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506)]
@@ -26,13 +24,35 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 - _RadBERT: Adapting Transformer-based Language Models to Radiology_ [[Paper](https://pubs.rsna.org/doi/full/10.1148/ryai.210258)]
 
+- _BioMed RoBERTa: Don't Stop Pretraining: Adapt Language Models to Domains and Tasks_ [[Paper](https://arxiv.org/abs/2004.10964)]
+
 - _MedAlpaca -- An Open-Source Collection of Medical Conversational AI Models and Training Data_ [[Paper](https://arxiv.org/abs/2304.08247)]
 
 - _Me LLaMA: Foundation Large Language Models for Medical Applications_ [[Paper][https://arxiv.org/abs/2402.12749]]
 
 - _LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day_ [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5abcdf8ecdcacba028c6662789194572-Abstract-Datasets_and_Benchmarks.html)]
 
-### Future Directions
+- _BioInstruct: instruction tuning of large language models for biomedical natural language processing_ [[Paper](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocae122/7687618)]
+
+- _Biomedgpt: Open multimodal generative pre-trained transformer for biomedicine_ [[Paper](https://arxiv.org/abs/2308.09442)]
+
+- _MEDITRON-70B: Scaling Medical Pretraining for Large Language Models_ [[Paper](https://arxiv.org/abs/2311.16079)]
+
+- _PMC-LLaMA: toward building open-source language models for medicine_ [[Paper](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocae045/7645318)]
+
+- _BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains_ [[Paper](https://arxiv.org/abs/2402.10373)]
+
+- _AlpaCare:Instruction-tuned Large Language Models for Medical Application_ [[Paper](https://arxiv.org/abs/2310.14558)]
+
+- _Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding_ [[Paper](https://arxiv.org/abs/2305.12031)]
+
+### Miscellaneous
+
+- _MedEval: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation_ [[Paper](https://arxiv.org/abs/2310.14558)]
+
+- _Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models_ [[Paper](https://arxiv.org/abs/2310.03182)]
+
+- _The imperative for regulatory oversight of large language models (or generative AI) in healthcare_ [[Paper](https://www.nature.com/articles/s41746-023-00873-0)]
 
 ## Law
 
