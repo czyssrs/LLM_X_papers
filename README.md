@@ -3,6 +3,11 @@ A collection of research papers on Large Language Models for Finance, Healthcare
 
 Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
+* [Finance](#Finance)
+* [Healthcare](#Healthcare)
+* [Law](#Law)
+* [Ethics](#Ethics)
+
 ## Finance
 
 ### Tasks and Datasets in Financial NLP
