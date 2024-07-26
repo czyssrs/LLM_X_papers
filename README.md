@@ -388,7 +388,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 - _Chatlaw: Open-source legal large language model with integrated external knowledge bases_ [[Paper](https://arxiv.org/pdf/2306.16092)]
 
-- _Lawyer llama technical report_ [[Paper](https://arxiv.org/pdf/2305.15062)]
+- _Lawyer LLaMA: Enhancing LLMs with Legal Knowledge_ [[Paper](https://arxiv.org/pdf/2305.15062)]
 
 ### Evaluation
 
