@@ -386,7 +386,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 - _Saullm-7b: A pioneering large language model for law_ [[Paper](https://arxiv.org/pdf/2403.03883)]
 
-- _Chatlaw: Open-source legal large language model with integrated external knowledge bases_ [[Paper](https://arxiv.org/pdf/2306.16092)]
+- _Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model_ [[Paper](https://arxiv.org/pdf/2306.16092)]
 
 - _Lawyer LLaMA: Enhancing LLMs with Legal Knowledge_ [[Paper](https://arxiv.org/pdf/2305.15062)]
 
