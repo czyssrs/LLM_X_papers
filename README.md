@@ -342,7 +342,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 - _MedAlpaca -- An Open-Source Collection of Medical Conversational AI Models and Training Data_ [[Paper](https://arxiv.org/abs/2304.08247)]
 
-- _Me LLaMA: Foundation Large Language Models for Medical Applications_ [[Paper][https://arxiv.org/abs/2402.12749]]
+- _Me LLaMA: Foundation Large Language Models for Medical Applications_ [[Paper](https://arxiv.org/abs/2402.12749)]
 
 - _LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day_ [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5abcdf8ecdcacba028c6662789194572-Abstract-Datasets_and_Benchmarks.html)]
 
